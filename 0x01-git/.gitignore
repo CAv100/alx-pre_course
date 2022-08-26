@@ -1,0 +1,7 @@
+cd alx-pre_course/0x01-git
+git checkout master
+echo "~" > .gitignore
+cat .gitignore
+git add .
+git commit -m "~"
+git push
